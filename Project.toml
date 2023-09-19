@@ -1,0 +1,4 @@
+name = "TestJuliaMicroservice"
+uuid = "5fb7129e-22bb-43c8-a510-4ae9f443e2d9"
+authors = ["Manu <manuedavakandam@gmail.com>"]
+version = "0.1.0"
